@@ -1,0 +1,26 @@
+.
+├── dfx.json
+├── file_structure.txt
+├── icp_health_vault_backend
+├── icp-health-vault-frontend
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── postcss.config.js
+│   ├── public
+│   │   └── vite.svg
+│   ├── README.md
+│   ├── src
+│   │   ├── App.css
+│   │   ├── App.jsx
+│   │   ├── assets
+│   │   ├── index.css
+│   │   └── main.jsx
+│   ├── tailwind.config.js
+│   └── vite.config.js
+└── src
+    └── declarations
+        └── icp_health_vault_backend
+
+8 directories, 15 files
